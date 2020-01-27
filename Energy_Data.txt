@@ -1,0 +1,60 @@
+Active_energy_cell_900 0.006083811163011932 mA
+Active_energy_logic_900 -0.11243435555436809 mA
+Active_energy_driver_900 11.811528126645882 mA
+ADC_leakage_value_cell_900 211.72456666666668
+ADC_leakage_value_logic_900 277.7624333333333
+ADC_leakage_value_driver_900 191.85456666666667
+ADC_total_value_cell_900 212.90696666666668
+ADC_total_value_logic_900 266.4497
+ADC_total_value_driver_900 981.9410333333333
+
+Active_energy_cell_800 0.0030931650336356586 mA
+Active_energy_logic_800 -0.010666177397500753 mA
+Active_energy_driver_800 9.552881311906106 mA
+ADC_leakage_value_cell_800 186.1514
+ADC_leakage_value_logic_800 197.61216666666667
+ADC_leakage_value_driver_800 141.38316666666665
+ADC_total_value_cell_800 186.762
+ADC_total_value_logic_800 196.333
+ADC_total_value_driver_800 621.1966333333334
+
+Active_energy_cell_700 0.0021745226128124795 mA
+Active_energy_logic_700 -0.015156849871311495 mA
+Active_energy_driver_700 8.464687134591724 mA
+ADC_leakage_value_cell_700 162.5316
+ADC_leakage_value_logic_700 149.96703333333335
+ADC_leakage_value_driver_700 112.57103333333333
+ADC_total_value_cell_700 162.96636666666666
+ADC_total_value_logic_700 147.93996666666666
+ADC_total_value_driver_700 545.1091333333334
+
+Active_energy_cell_600 0.002458850067519558 mA
+Active_energy_logic_600 -0.010425887181914506 mA
+Active_energy_driver_600 7.050090482743663 mA
+ADC_leakage_value_cell_600 141.04456666666667
+ADC_leakage_value_logic_600 122.71113333333334
+ADC_leakage_value_driver_600 85.10006666666666
+ADC_total_value_cell_600 141.53993333333332
+ADC_total_value_logic_600 121.24856666666666
+ADC_total_value_driver_600 408.0075
+
+Active_energy_cell_500 0.001930577466337402 mA
+Active_energy_logic_500 -0.006931397809858186 mA
+Active_energy_driver_500 0.3009816877039162 mA
+ADC_leakage_value_cell_500 123.64153333333333
+ADC_leakage_value_logic_500 99.14563333333334
+ADC_leakage_value_driver_500 67.93576666666667
+ADC_total_value_cell_500 124.02723333333333
+ADC_total_value_logic_500 98.12726666666667
+ADC_total_value_driver_500 101.92853333333333
+
+Active_energy_cell_450 -0.009297684556869412 mA
+Active_energy_logic_450 -0.025836565538222778 mA
+Active_energy_driver_450 0.1326856532966193 mA
+ADC_leakage_value_cell_450 114.14626666666666
+ADC_leakage_value_logic_450 89.148
+ADC_leakage_value_driver_450 58.119033333333334
+ADC_total_value_cell_450 112.40003333333334
+ADC_total_value_logic_450 85.39533333333334
+ADC_total_value_driver_450 71.88376666666667
+
